@@ -1,0 +1,26 @@
+[
+  {
+    "title": "E-Commerce",
+    "imageSrc": "projects/myntra8.png",
+    "description": "This E-commerce  website provides a seamless and intutive user experience to the user.",
+    "skills": ["React", "Bootstrap", "Express", "Node", "MongoDb"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/hyder-fida/Myntra-Clone"
+  },
+  {
+    "title": "University Website",
+    "imageSrc": "projects/uni1.png",
+    "description": "This is a unoversity website build used various technologies to provide a seamless user Experience.",
+    "skills": ["React", "Tailwind css", "Express", "Node", "MongoDb"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/hyder-fida/University-Website"
+  },
+  {
+    "title": "Trading App",
+    "imageSrc": "projects/trading.png",
+    "description": "This  project made to learn the latest languages by building an Trading app, this app provides beautiful UI for users to intreact with app.",
+    "skills": ["React", "Tailwind css", "React-icons"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/hyder-fida/TradingApp"
+  }
+]
